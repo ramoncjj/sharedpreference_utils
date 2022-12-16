@@ -1,0 +1,20 @@
+name: sharedpreference_utils
+description: Flutter shared_preferences plugin util,easy to use
+version: 1.0.0
+homepage: https://github.com/ramoncjj/sharedpreference_utils
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: '>=2.0.3 <4.0.0'  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
